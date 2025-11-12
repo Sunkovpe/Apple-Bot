@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "pregunta": "¿Qué tiene dientes pero no puede morder?",
+    "respuesta": "peine",
+    "categoria": "objetos"
+  },
+  {
+    "id": 2,
+    "pregunta": "¿Qué sube y baja pero nunca se mueve?",
+    "respuesta": "escalera",
+    "categoria": "objetos"
+  },
+  {
+    "id": 3,
+    "pregunta": "¿Qué tiene llaves pero no abre puertas?",
+    "respuesta": "piano",
+    "categoria": "instrumentos"
+  },
+  {
+    "id": 4,
+    "pregunta": "¿Qué tiene hojas pero no es un árbol?",
+    "respuesta": "libro",
+    "categoria": "objetos"
+  },
+  {
+    "id": 5,
+    "pregunta": "¿Qué tiene agujas pero no cose?",
+    "respuesta": "reloj",
+    "categoria": "objetos"
+  },
+  {
+    "id": 6,
+    "pregunta": "¿Qué tiene ruedas pero no es un carro?",
+    "respuesta": "patineta",
+    "categoria": "transporte"
+  },
+  {
+    "id": 7,
+    "pregunta": "¿Qué tiene ojos pero no puede ver?",
+    "respuesta": "agujas",
+    "categoria": "objetos"
+  },
+  {
+    "id": 8,
+    "pregunta": "¿Qué tiene boca pero no puede hablar?",
+    "respuesta": "botella",
+    "categoria": "objetos"
+  },
+  {
+    "id": 9,
+    "pregunta": "¿Qué tiene patas pero no puede caminar?",
+    "respuesta": "mesa",
+    "categoria": "muebles"
+  },
+  {
+    "id": 10,
+    "pregunta": "¿Qué tiene cabeza pero no tiene cerebro?",
+    "respuesta": "clavo",
+    "categoria": "herramientas"
+  },
+  {
+    "id": 11,
+    "pregunta": "¿Qué tiene cuello pero no tiene cabeza?",
+    "respuesta": "botella",
+    "categoria": "objetos"
+  },
+  {
+    "id": 12,
+    "pregunta": "¿Qué tiene manos pero no puede aplaudir?",
+    "respuesta": "reloj",
+    "categoria": "objetos"
+  },
+  {
+    "id": 13,
+    "pregunta": "¿Qué tiene dientes pero no puede comer?",
+    "respuesta": "sierra",
+    "categoria": "herramientas"
+  },
+  {
+    "id": 14,
+    "pregunta": "¿Qué tiene alas pero no puede volar?",
+    "respuesta": "avion",
+    "categoria": "transporte"
+  },
+  {
+    "id": 15,
+    "pregunta": "¿Qué tiene raíz pero no es una planta?",
+    "respuesta": "diente",
+    "categoria": "cuerpo"
+  },
+  {
+    "id": 16,
+    "pregunta": "¿Qué tiene espalda pero no tiene frente?",
+    "respuesta": "silla",
+    "categoria": "muebles"
+  },
+  {
+    "id": 17,
+    "pregunta": "¿Qué tiene brazos pero no tiene cuerpo?",
+    "respuesta": "camisa",
+    "categoria": "ropa"
+  },
+  {
+    "id": 18,
+    "pregunta": "¿Qué tiene nariz pero no puede oler?",
+    "respuesta": "tetera",
+    "categoria": "objetos"
+  },
+  {
+    "id": 19,
+    "pregunta": "¿Qué tiene orejas pero no puede escuchar?",
+    "respuesta": "olla",
+    "categoria": "objetos"
+  },
+  {
+    "id": 20,
+    "pregunta": "¿Qué tiene lengua pero no puede hablar?",
+    "respuesta": "zapato",
+    "categoria": "ropa"
+  }
+]
